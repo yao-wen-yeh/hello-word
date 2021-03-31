@@ -1,2 +1,2 @@
 # hello-word
-Rumpa
+Just another repository
